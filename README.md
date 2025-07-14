@@ -20,6 +20,7 @@ This Django web app allows users to **upload an image** and returns the **extrac
 - Python 3.8+
 - pip
 - Tesseract OCR (installed separately)
+    -For Windows system
     -Install to default path:
     C:\Program Files\Tesseract-OCR
 
